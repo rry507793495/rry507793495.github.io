@@ -1,3 +1,14 @@
+---
+layout:		post
+title: 		错误 Unable to locate package python-pip
+date: 		2020-06-23 21:04:56
+author:		"RRY"
+header-img: 	"img/post-bg-2015.jpg"
+catalog:	 true
+tags:
+- python
+---
+
 0x01docker环境
 如果安装遇到问题可以先去下面这个网址注册学习.可以开启一个4小时倒计时的docker环境.
 `https://labs.play-with-docker.com/`
