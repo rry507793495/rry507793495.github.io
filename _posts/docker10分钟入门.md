@@ -1,12 +1,13 @@
 ---
-layout:		post
-title: 		错误 Unable to locate package python-pip
-date: 		2020-06-23 21:04:56
-author:		"RRY"
-header-img: 	"img/post-bg-2015.jpg"
-catalog:	 true
+layout:     post
+title:      docker10分钟入门
+subtitle:   docker
+date:       2020-06-23
+author:     RRY
+header-img: img/post-bg-cook.jpg
+catalog: true
 tags:
-- python
+    - docker
 ---
 
 0x01docker环境
